@@ -1,0 +1,79 @@
+body{
+    background-image: url('background.webp');
+    background-size: cover;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: white;
+    padding-right: 10px;
+}
+#main{
+    background-color:brown;
+    height: fit-content;
+    padding: 80px;
+    align-items: center;
+    margin-left: 0px;
+}
+#A{
+    margin-left: 150px;
+}
+#M{
+height: 300px;
+width: 350px;
+}
+#D{
+    height: 300px;
+    width: 350px;
+    }
+h{
+    text-align: center;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+    margin-right: auto;
+}
+p{
+    font-size: x-large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#video{
+    margin-left: 200px;
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    color: rgb(57, 2, 255);
+  }
+  .fa-twitter {
+    color: rgb(59, 7, 250);
+  }
+  .fa-linkedin{
+   color: rgb(238, 234, 247);
+  }
+  .fa-youtube{
+    color: rgb(252, 16, 36);
+  }
+a{
+    color: white;
+    position: relative;
+    text-decoration: none;
+}
